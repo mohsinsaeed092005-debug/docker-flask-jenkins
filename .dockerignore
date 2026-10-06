@@ -1,0 +1,5 @@
+.dk/
+__pycache__/
+.pytest_cache/
+.git/
+mlops-assignment/
