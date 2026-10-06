@@ -35,3 +35,4 @@ Releases are tagged in Git (v1, v2, v3) and each tag has a matching Docker image
 If a release is faulty: stop the container, run the previous image
 (docker run ... docker-flask-app:v1), fix with git revert, test,
 tag a new version and redeploy.
+# demo
