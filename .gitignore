@@ -1,3 +1,4 @@
 .dk/
 __pycache__/
 .pytest_cache/
+model.json
